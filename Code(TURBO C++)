@@ -1,10 +1,9 @@
-#include<iostream>
+#include<iostream.h>
 #include<conio.h>
-#include<fstream>
+#include<fstream.h>
 #include<dos.h>
 #include<string.h>
 #include<stdio.h>
-using namespace std;
 int choice;
 int a,c;
 char ans;
